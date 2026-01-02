@@ -1,4 +1,4 @@
-# U.S. Inflation Drivers & Forecasting (1958–2024+)  
+# U.S. Inflation Drivers & Forecasting (1958–2024)  
 A macroeconometric project studying the drivers of U.S. inflation and building forecasting + recession-warning models using monthly data.
 
 🌐 **Project website:** https://dianaaleksieieva.github.io/inflation-project/
